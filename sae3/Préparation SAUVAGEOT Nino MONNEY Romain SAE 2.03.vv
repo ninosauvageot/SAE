@@ -1,0 +1,10 @@
+[virt-viewer]
+type=vnc
+title=Préparation SAUVAGEOT Nino MONNEY Romain SAE 2.03
+host=one-dell1
+port=10802
+proxy=http://one-frontend:29876?token=qt80b8d09zqi830uo8a2
+fullscreen=0
+toggle-fullscreen=shift+f11
+release-cursor=shift+f12
+secure-attention=ctrl+alt+end
